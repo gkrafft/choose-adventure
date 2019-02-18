@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/george/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7845c530e7c8e9ff4f31b0c7b08616a5/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/home/george/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f8075920198d9c6b4e7852391f995551/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        }
+    ]
+}

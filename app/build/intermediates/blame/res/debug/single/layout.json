@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_kitchen_lose.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_kitchen_lose.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cat.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_cat.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_soda_win.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_soda_win.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_soda_lose.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_soda_lose.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_soda.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_soda.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_title.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_title.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_kitchen_win.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_kitchen_win.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_wash.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_wash.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_kitchen.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_kitchen.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_start.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_game_start.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_phone.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_phone.xml"
+    },
+    {
+        "merged": "/home/george/AndroidStudioProjects/ChooseAdventure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_no_wash.xml",
+        "source": "/home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/res/layout/fragment_no_wash.xml"
+    }
+]

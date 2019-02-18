@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/navigation" app:startDestination="@id/titleFragment">
+
+    <fragment android:id="@+id/titleFragment" android:name="kraf.george.chooseadventure.TitleFragment"
+              android:label="TitleFragment"
+              tools:layout="@layout/fragment_title">
+        <action android:id="@+id/action_titleFragment_to_gameStart" app:destination="@id/gameStart"/>
+    </fragment>
+    <fragment android:id="@+id/gameStart" android:name="kraf.george.chooseadventure.GameStart"
+              android:label="GameStart"
+              tools:layout="@layout/fragment_game_start">
+        <action android:id="@+id/action_gameStart_to_sodaFragment" app:destination="@id/sodaFragment"/>
+        <action android:id="@+id/action_gameStart_to_kitchen" app:destination="@id/kitchen"/>
+    </fragment>
+    <fragment android:id="@+id/sodaFragment" android:name="kraf.george.chooseadventure.SodaFragment"
+              android:label="SodaFragment"
+              tools:layout="@layout/fragment_soda">
+        <action android:id="@+id/action_sodaFragment_to_phoneFragment" app:destination="@id/phoneFragment"/>
+        <action android:id="@+id/action_sodaFragment_to_catFragment" app:destination="@id/catFragment"/>
+    </fragment>
+    <fragment android:id="@+id/phoneFragment" android:name="kraf.george.chooseadventure.PhoneFragment"
+              android:label="PhoneFragment"
+              tools:layout="@layout/fragment_phone">
+        <action android:id="@+id/action_phoneFragment_to_sodaLose" app:destination="@id/sodaLose"/>
+    </fragment>
+    <fragment android:id="@+id/catFragment" android:name="kraf.george.chooseadventure.CatFragment"
+              android:label="CatFragment"
+              tools:layout="@layout/fragment_cat">
+        <action android:id="@+id/action_catFragment_to_sodaWin" app:destination="@id/sodaWin"/>
+    </fragment>
+    <fragment android:id="@+id/sodaLose" android:name="kraf.george.chooseadventure.SodaLose" android:label="SodaLose" tools:layout="@layout/fragment_soda_lose">
+        <action android:id="@+id/action_sodaLose_to_titleFragment" app:destination="@id/titleFragment"
+                app:popUpTo="@+id/gameStart" app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment android:id="@+id/sodaWin" android:name="kraf.george.chooseadventure.SodaWin" android:label="SodaWin" tools:layout="@layout/fragment_soda_win">
+        <action android:id="@+id/action_sodaWin_to_titleFragment" app:destination="@id/titleFragment"
+                app:popUpTo="@+id/gameStart" app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment android:id="@+id/kitchen" android:name="kraf.george.chooseadventure.Kitchen" android:label="Kitchen">
+        <action android:id="@+id/action_kitchen_to_wash" app:destination="@id/wash"/>
+        <action android:id="@+id/action_kitchen_to_noWash" app:destination="@id/noWash"/>
+    </fragment>
+    <fragment android:id="@+id/wash" android:name="kraf.george.chooseadventure.Wash" android:label="Wash">
+        <action android:id="@+id/action_wash_to_kitchenWin" app:destination="@id/kitchenWin"/>
+    </fragment>
+    <fragment android:id="@+id/noWash" android:name="kraf.george.chooseadventure.NoWash" android:label="NoWash">
+        <action android:id="@+id/action_noWash_to_kitchenLose" app:destination="@id/kitchenLose"/>
+    </fragment>
+    <fragment android:id="@+id/kitchenLose" android:name="kraf.george.chooseadventure.KitchenLose"
+              android:label="KitchenLose">
+        <action android:id="@+id/action_kitchenLose_to_titleFragment" app:destination="@id/titleFragment"
+                app:popUpTo="@+id/gameStart" app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment android:id="@+id/kitchenWin" android:name="kraf.george.chooseadventure.KitchenWin"
+              android:label="KitchenWin">
+        <action android:id="@+id/action_kitchenWin_to_titleFragment" app:destination="@id/titleFragment"
+                app:popUpTo="@+id/gameStart" app:popUpToInclusive="true"/>
+    </fragment>
+</navigation>

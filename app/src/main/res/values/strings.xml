@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Choose Adventure</string>
+
+    <string name="game_start">You wake up, and are overcome with an immense thirst.
+
+        Next to your bed, you have a stale, flat soda that has been there longer than you care to think about.
+
+        You can either drink this suspect soda, or get out of bed and go to the kitchen to get some water.</string>
+    <string name="soda_string">Getting out of bed sounds hard, so you reluctantly reach for the formerly carbonated beverage.
+        Unfortunately, in your sleep-addled state, you knock the sugary substance over. It lands all over your phone and your cat.  Which do you attempt to dry?</string>
+    <string name="cat">You grab your furious feline and remove the rancid remains of the soda.
+        Out of breath and covered in scratches, you head to the kitchen.</string>
+    <string name="soda_win">As you rinse your wounds and fill a glass, you remember that your phone is water-proof.
+        Congratulations! You drank some water!</string>
+    <string name="phone">You frantically begin drying your phone as your cat tears out of the room, spraying the noxious
+        beverage behind it.</string>
+    <string name="soda_lose">Your kitty in his panic collapses your pile of dirty laundry onto the space heater in the next room.
+        Your house crumbles in flames while you watch in awe, but at least you have your phone&#8230; right?</string>
+    <string name="kitchen_string">You drag yourself out of bed and stumble into the kitchen.
+        You have only one cup in your house, a comically over-sized coffee mug. (You really need to get some other ones.)
+        Unfortunately, that mug has been sitting in your sink for some time, and is looking rather fuzzy.
+        You can either use the mug as-is, or make the effort to wash it first.</string>
+    <string name="wash">You decide not to take any risks, and, heck, you already made the effort to get out of bed.
+        You pump some soap into the mug, and thoroughly wash the vessel inside and out.</string>
+    <string name="kitchen_win">You fill your newly clean mug with water, applauding yourself for not being lazy.
+        Congratulations! You drank some water!</string>
+    <string name="no_wash">You lower your standards a little bit lower and think to yourself, \"What\'s the worst that could happen?\" You fill the mug with water and take a sip.</string>
+    <string name="kitchen_lose">As you lie in the hospital a few days later, you realize that the worst that could happen is a severe case of
+        food poisoning that has left you bed-ridden and miserable. You vow to yourself to mend your lazy ways &#8230; or at least buy a few new cups.</string>
+    <string name="strCatButton">Cat</string>
+    <string name="strPhoneButton">Phone</string>
+    <string name="strSodaWin">Continue</string>
+    <string name="strSodaWon">Yay!</string>
+    <string name="btnSodaLost">Aw :C</string>
+    <string name="strSodaLose">Continue</string>
+    <string name="strSodaStart">Abandon hope and drink the soda.</string>
+    <string name="strKitchenStart">Go to the kitchen, I have standards.</string>
+    <string name="strBtnWash">Wash</string>
+    <string name="strBtnNoWash">Nah, it\'ll be fine</string>
+    <string name="strBtnKitchLost">Aw man :(</string>
+    <string name="strBtnKitchWon">Sweet hydration!</string>
+    <string name="strBtnKitchLose">I don\'t feel so good&#8230;</string>
+    <string name="strBtnKitchWin">Being responsible sure is fun!</string>
+    <string name="title">Welcome to Drinking Water Simulator 2019!</string>
+    <string name="strBtnStart">Let\'s drink some water!</string>
+</resources>

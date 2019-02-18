@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.databinding:adapters:3.3.1] /home/george/.gradle/caches/transforms-1/files-1.1/adapters-3.3.1.aar/2598719e9cc91b0545eb2493d03e6bd6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.3.1] /home/george/.gradle/caches/transforms-1/files-1.1/library-3.3.1.aar/51a2462c2acc7087438ae1f7b7ca12c9/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-ui-ktx-1.0.0-beta01.aar/acaa873d233d255a16f4281118bc47a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0-beta01.aar/b2158d0eb764ae69eb924d7d1e5760ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f8075920198d9c6b4e7852391f995551/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7845c530e7c8e9ff4f31b0c7b08616a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9defdd2ffd461d535e307d5f513df4e9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d8c469547a44329c3b982691f9f09182/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-fragment-ktx-1.0.0-beta01.aar/ec002460cbd679ed059ab86320502209/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0-beta01.aar/b4bbd4eee015954e22aef630361fe22e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fdbce5c11ecc6ad7b08ab870b0f2f007/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a7a181cb4433afabf7080cf1a66b709a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7779d8f4bacf7c7340a9a9810a2c8e79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2e74edcb34b14394d918b5d348753b49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4f56b1e4375dd2b9ec1d68bd1594128f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-1.0.0-beta01.aar/8759a30421f4d509111d6ca18574401f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0-beta01.aar/e9999650e1cdc4dfbd69f8aa81322914/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d32d5469e80c3472212f2c0b60f26c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6e0e3fc5c60188502b0abb896b41ac49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/95660a83dd8f9eb220de0c28850bdfe8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e59c116b1b88ada587b7901185ff7e23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c14767332924884d7640aa9db2328922/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b39bfb1e51d311202a571e3360de639b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/93852980c0d21601224108a10a4e1fc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2cd30a052bc642fb253f0c9478ef67b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dc890c99366222d00785ce8642b4f90e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/59a566e0743776017e5b5e69968d9a5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2cc661d5b85e3faa616e3476d4dc6c27/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-1.0.0-beta01.aar/37f3f1cc83dc677d864f9786e6feaa35/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0-beta01.aar/f8135bd2221890e905f78a3386158d55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/90fa5276e996a62952c3a772e5bdcf5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a68b995c05b5d00edbcd40fd128823bc/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/090cdd7d5e382c93c0ea49356ea906fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5f2126d81989a3cbae6a0c4362c0c5cd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bfe48079240825bc922d2915b0e7a5a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4f6d45f1a44b72b5d5d4a100824348dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/28408152cd8044700ad08938606a4b07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/563a391fdf174e031849d8c97b37b2e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c10969cf7a7126c7367f2fba951b9d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0264d9a139ef8ce5946c2c3796c2f9d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c9be98e6ca1fc6f7ad4b1f341d0ac9af/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/39febcb9b1e984f78c4cb0911f1d250f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2c67799a44bccc5f5209716cc9d8ee1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2eefaba4b3d0fa34eaee9250b059c4b2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:70-116
+	android:versionCode
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f8075920198d9c6b4e7852391f995551/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f8075920198d9c6b4e7852391f995551/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9defdd2ffd461d535e307d5f513df4e9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9defdd2ffd461d535e307d5f513df4e9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fdbce5c11ecc6ad7b08ab870b0f2f007/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fdbce5c11ecc6ad7b08ab870b0f2f007/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a68b995c05b5d00edbcd40fd128823bc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a68b995c05b5d00edbcd40fd128823bc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5f2126d81989a3cbae6a0c4362c0c5cd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5f2126d81989a3cbae6a0c4362c0c5cd/AndroidManifest.xml:22:5-23:19
+	android:supportsRtl
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:8:13-45
+	android:appComponentFactory
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:14:13-51
+		REJECTED from [com.android.support:support-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a68b995c05b5d00edbcd40fd128823bc/AndroidManifest.xml:22:18-91
+	android:roundIcon
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:10:13-58
+	android:icon
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:9:13-44
+	tools:replace
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:13:13-56
+activity#kraf.george.chooseadventure.MainActivity
+ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:15:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.3.1] /home/george/.gradle/caches/transforms-1/files-1.1/adapters-3.3.1.aar/2598719e9cc91b0545eb2493d03e6bd6/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.3.1] /home/george/.gradle/caches/transforms-1/files-1.1/adapters-3.3.1.aar/2598719e9cc91b0545eb2493d03e6bd6/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.1] /home/george/.gradle/caches/transforms-1/files-1.1/library-3.3.1.aar/51a2462c2acc7087438ae1f7b7ca12c9/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.1] /home/george/.gradle/caches/transforms-1/files-1.1/library-3.3.1.aar/51a2462c2acc7087438ae1f7b7ca12c9/AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-ui-ktx-1.0.0-beta01.aar/acaa873d233d255a16f4281118bc47a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-ui-ktx-1.0.0-beta01.aar/acaa873d233d255a16f4281118bc47a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0-beta01.aar/b2158d0eb764ae69eb924d7d1e5760ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0-beta01.aar/b2158d0eb764ae69eb924d7d1e5760ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f8075920198d9c6b4e7852391f995551/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f8075920198d9c6b4e7852391f995551/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7845c530e7c8e9ff4f31b0c7b08616a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7845c530e7c8e9ff4f31b0c7b08616a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9defdd2ffd461d535e307d5f513df4e9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9defdd2ffd461d535e307d5f513df4e9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d8c469547a44329c3b982691f9f09182/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d8c469547a44329c3b982691f9f09182/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-fragment-ktx-1.0.0-beta01.aar/ec002460cbd679ed059ab86320502209/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-fragment-ktx-1.0.0-beta01.aar/ec002460cbd679ed059ab86320502209/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0-beta01.aar/b4bbd4eee015954e22aef630361fe22e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0-beta01.aar/b4bbd4eee015954e22aef630361fe22e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fdbce5c11ecc6ad7b08ab870b0f2f007/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/george/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fdbce5c11ecc6ad7b08ab870b0f2f007/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a7a181cb4433afabf7080cf1a66b709a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a7a181cb4433afabf7080cf1a66b709a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7779d8f4bacf7c7340a9a9810a2c8e79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7779d8f4bacf7c7340a9a9810a2c8e79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2e74edcb34b14394d918b5d348753b49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2e74edcb34b14394d918b5d348753b49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4f56b1e4375dd2b9ec1d68bd1594128f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4f56b1e4375dd2b9ec1d68bd1594128f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-1.0.0-beta01.aar/8759a30421f4d509111d6ca18574401f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-1.0.0-beta01.aar/8759a30421f4d509111d6ca18574401f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0-beta01.aar/e9999650e1cdc4dfbd69f8aa81322914/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0-beta01.aar/e9999650e1cdc4dfbd69f8aa81322914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d32d5469e80c3472212f2c0b60f26c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d32d5469e80c3472212f2c0b60f26c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6e0e3fc5c60188502b0abb896b41ac49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6e0e3fc5c60188502b0abb896b41ac49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/95660a83dd8f9eb220de0c28850bdfe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/95660a83dd8f9eb220de0c28850bdfe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e59c116b1b88ada587b7901185ff7e23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e59c116b1b88ada587b7901185ff7e23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c14767332924884d7640aa9db2328922/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c14767332924884d7640aa9db2328922/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b39bfb1e51d311202a571e3360de639b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b39bfb1e51d311202a571e3360de639b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/93852980c0d21601224108a10a4e1fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/93852980c0d21601224108a10a4e1fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2cd30a052bc642fb253f0c9478ef67b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2cd30a052bc642fb253f0c9478ef67b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dc890c99366222d00785ce8642b4f90e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dc890c99366222d00785ce8642b4f90e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/59a566e0743776017e5b5e69968d9a5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/59a566e0743776017e5b5e69968d9a5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2cc661d5b85e3faa616e3476d4dc6c27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2cc661d5b85e3faa616e3476d4dc6c27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-1.0.0-beta01.aar/37f3f1cc83dc677d864f9786e6feaa35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-1.0.0-beta01.aar/37f3f1cc83dc677d864f9786e6feaa35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0-beta01.aar/f8135bd2221890e905f78a3386158d55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-beta01] /home/george/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0-beta01.aar/f8135bd2221890e905f78a3386158d55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/90fa5276e996a62952c3a772e5bdcf5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/90fa5276e996a62952c3a772e5bdcf5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a68b995c05b5d00edbcd40fd128823bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a68b995c05b5d00edbcd40fd128823bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/090cdd7d5e382c93c0ea49356ea906fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/090cdd7d5e382c93c0ea49356ea906fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5f2126d81989a3cbae6a0c4362c0c5cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5f2126d81989a3cbae6a0c4362c0c5cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bfe48079240825bc922d2915b0e7a5a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bfe48079240825bc922d2915b0e7a5a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4f6d45f1a44b72b5d5d4a100824348dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4f6d45f1a44b72b5d5d4a100824348dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/28408152cd8044700ad08938606a4b07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/28408152cd8044700ad08938606a4b07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/563a391fdf174e031849d8c97b37b2e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/563a391fdf174e031849d8c97b37b2e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c10969cf7a7126c7367f2fba951b9d5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c10969cf7a7126c7367f2fba951b9d5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0264d9a139ef8ce5946c2c3796c2f9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0264d9a139ef8ce5946c2c3796c2f9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c9be98e6ca1fc6f7ad4b1f341d0ac9af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c9be98e6ca1fc6f7ad4b1f341d0ac9af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/39febcb9b1e984f78c4cb0911f1d250f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/39febcb9b1e984f78c4cb0911f1d250f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2c67799a44bccc5f5209716cc9d8ee1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/george/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2c67799a44bccc5f5209716cc9d8ee1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2eefaba4b3d0fa34eaee9250b059c4b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/george/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2eefaba4b3d0fa34eaee9250b059c4b2/AndroidManifest.xml:20:5-44
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+		ADDED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
+		INJECTED from /home/george/AndroidStudioProjects/ChooseAdventure/app/src/main/AndroidManifest.xml
